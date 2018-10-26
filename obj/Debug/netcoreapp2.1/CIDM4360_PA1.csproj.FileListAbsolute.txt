@@ -1,0 +1,11 @@
+C:\Development\CIDM4360_PA1\obj\Debug\netcoreapp2.1\CIDM4360_PA1.csprojAssemblyReference.cache
+C:\Development\CIDM4360_PA1\obj\Debug\netcoreapp2.1\CIDM4360_PA1.csproj.CoreCompileInputs.cache
+C:\Development\CIDM4360_PA1\obj\Debug\netcoreapp2.1\CIDM4360_PA1.AssemblyInfoInputs.cache
+C:\Development\CIDM4360_PA1\obj\Debug\netcoreapp2.1\CIDM4360_PA1.AssemblyInfo.cs
+C:\Development\CIDM4360_PA1\bin\Debug\netcoreapp2.1\CIDM4360_PA1.deps.json
+C:\Development\CIDM4360_PA1\bin\Debug\netcoreapp2.1\CIDM4360_PA1.runtimeconfig.json
+C:\Development\CIDM4360_PA1\bin\Debug\netcoreapp2.1\CIDM4360_PA1.runtimeconfig.dev.json
+C:\Development\CIDM4360_PA1\bin\Debug\netcoreapp2.1\CIDM4360_PA1.dll
+C:\Development\CIDM4360_PA1\bin\Debug\netcoreapp2.1\CIDM4360_PA1.pdb
+C:\Development\CIDM4360_PA1\obj\Debug\netcoreapp2.1\CIDM4360_PA1.dll
+C:\Development\CIDM4360_PA1\obj\Debug\netcoreapp2.1\CIDM4360_PA1.pdb
